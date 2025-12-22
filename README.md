@@ -21,6 +21,9 @@ This repos as noted above is
 a part of my personal [Dotfiles](https://github.com/edheltzel/dotfiles). Be inspired, take what you want, and leave the
 rest to make it your own.
 
+- [E.DOTS - Dofiles](https://github.com/edheltzel/dotfiles)
+- [NEO.ED - Neovim Config](https://github.com/edheltzel/neoed)
+
 ## Layers
 
 <details open>
