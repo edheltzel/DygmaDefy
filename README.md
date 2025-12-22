@@ -23,7 +23,7 @@ rest to make it your own.
 
 ## Layers
 
-<details>
+<details open>
 <summary><strong>L1 - Base</strong></summary>
 
 [Layer Config](2025-12-22--Base.json)
