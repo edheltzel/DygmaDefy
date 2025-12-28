@@ -27,9 +27,11 @@ rest to make it your own.
 ## Layers
 
 <details open>
-<summary><strong>L1 - Base</strong></summary>
+<summary><strong>L1 - Base (Homerow Mods)</strong></summary>
 
-[Layer Config](2025-12-22--Base.json)
+[Layer Config](2025-12-28--Base.json)
+
+Includes shift and ctrl on the homerow for efficient modifier access while typing.
 
 ![L1 Base Layer](_images/L1-base.jpeg)
 
@@ -65,8 +67,19 @@ rest to make it your own.
 <details>
 <summary><strong>L5 - Design</strong></summary>
 
-[Layer Config](2025-12-22--Desig.json)
+[Layer Config](2025-12-22--Design.json)
 
 ![L5 Design](_images/L5-design.jpeg)
+
+</details>
+
+<details>
+<summary><strong>L6 - Default</strong></summary>
+
+[Layer Config](2025-12-28--DefaultNoHomeRowMods.json)
+
+Same as the Base layer without homerow mods.
+
+![L6 Default Layer](_images/L6-default.jpeg)
 
 </details>
