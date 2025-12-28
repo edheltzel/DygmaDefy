@@ -35,7 +35,7 @@
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "Default"
     },
     {
       "id": 6,
@@ -190,9 +190,9 @@
       "label": "P"
     },
     {
-      "keyCode": 53987,
-      "label": "DelDT",
-      "extraLabel": "SUPER"
+      "keyCode": 554,
+      "label": "BACKSPACE",
+      "extraLabel": ""
     },
     {
       "keyCode": 53980,
@@ -361,9 +361,9 @@
       "label": "SPACE"
     },
     {
-      "keyCode": 6678,
-      "label": "S",
-      "extraLabel": ""
+      "keyCode": 53983,
+      "label": "LdrHy",
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 53984,
@@ -381,10 +381,17 @@
       "extraLabel": ""
     },
     {
-      "keyCode": 230,
-      "label": "RIGHT ⌥",
-      "extraLabel": "",
-      "verbose": "AltGr"
+      "keyCode": 17497,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 6
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 5092,
@@ -392,17 +399,9 @@
       "extraLabel": ""
     },
     {
-      "keyCode": 17492,
-      "label": "",
-      "extraLabel": {
-        "key": null,
-        "ref": null,
-        "props": {
-          "type": "lock",
-          "layerNumber": 1
-        },
-        "_owner": null
-      }
+      "keyCode": 53989,
+      "label": "Layer",
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 53983,
@@ -423,40 +422,40 @@
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 228,
+      "keyCode": 224,
       "label": "CTRL",
-      "extraLabel": "RIGHT",
-      "verbose": "Right Control"
+      "extraLabel": "LEFT",
+      "verbose": "Left Control"
     }
   ],
   "colormap": [
-    14,
-    14,
-    14,
-    14,
-    14,
-    14,
-    14,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
     7,
-    14,
-    14,
-    14,
-    14,
-    14,
-    14,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
     3,
-    14,
-    14,
-    14,
-    14,
-    14,
-    14,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
     5,
-    14,
-    14,
-    14,
-    14,
-    14,
+    4,
+    4,
+    4,
+    4,
+    4,
     5,
     7,
     6,
@@ -465,41 +464,41 @@
     6,
     10,
     12,
-    12,
-    14,
-    14,
-    14,
-    14,
-    14,
-    14,
-    0,
-    14,
-    14,
-    14,
-    14,
-    14,
-    14,
-    14,
-    14,
-    14,
-    14,
-    14,
-    14,
+    9,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    9,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
     0,
     5,
-    14,
-    14,
-    14,
-    14,
-    14,
+    4,
+    4,
+    4,
+    4,
+    4,
     5,
     6,
     4,
     2,
     3,
-    7,
+    11,
     10,
-    5,
+    7,
     15,
     15,
     15,
